@@ -1,3 +1,3 @@
 # hello-world
 
-hi ,i am vivek,i am in the learning state
+Hi,I am vivek.I am in the learning stage
